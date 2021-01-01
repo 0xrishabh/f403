@@ -8,11 +8,11 @@ A simple tool to bypass 403   💣⚡
 
 # Usage:
 
-`bash 
+```bash 
 
 f403 https://example.com path
 
-`
+```
 
 # Installation
 
