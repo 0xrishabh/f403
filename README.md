@@ -16,4 +16,7 @@ f403 https://example.com path
 
 # Installation
 
+```bash
+
 go get -u github.com/0xrishabh/f403
+```
